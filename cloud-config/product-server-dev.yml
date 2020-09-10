@@ -1,2 +1,5 @@
-easy:
-  hello: dev config
+data:
+  env: config-eureka-dev
+  user:
+    username: eureka-client-user
+    password: 1291029102
